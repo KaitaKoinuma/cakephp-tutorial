@@ -7,4 +7,6 @@ docker compose ps
 docker compose exec app bash
 composer create-project --prefer-dist cakephp/app:~5.0 .
 ```
-http://localhost:8081/　にアクセス
+http://localhost:8081/  
+
+にアクセス
